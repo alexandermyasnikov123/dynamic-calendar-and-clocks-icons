@@ -13,5 +13,5 @@ Let Calendar, Clocks and Weather icons show current date, time and weather.
 ## Manual installation guide
 - Clone this repository by running `git clone https://github.com/alexandermyasnikov123/dynamic-calendar-and-clocks-icons` or click a download source code [button](https://github.com/alexandermyasnikov123/dynamic-calendar-and-clocks-icons/archive/refs/heads/main.zip).
 - Extract the archive to a directory of your choice if you chose the 'download source code' option.
-- Copy the 'dynamic-calendar-and-clocks-icons@fcusr.github.com' folder to the '~/.local/share/gnome-shell/extensions' directory.
+- Copy the 'dynamic-calendar-and-clocks-icons@...' folder to the '~/.local/share/gnome-shell/extensions' directory.
 - Log out the Gnome session and log back in.
