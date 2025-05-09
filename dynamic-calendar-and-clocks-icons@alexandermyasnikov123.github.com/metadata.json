@@ -1,0 +1,10 @@
+{
+    "uuid": "dynamic-calendar-and-clocks-icons@alexandermyasnikov123.github.com",
+    "gettext-domain": "dynamic-calendar-and-clocks-icons@alexandermyasnikov123.github.com",
+    "name": "[Reborn] Dynamic Calendar, Clocks and Weather Icons",
+    "description":
+    "A fork of the dynamic-calendar-and-clocks-icons by fcusr.",
+    "version": 11,
+    "shell-version": ["46", "47","48"],
+    "url": "https://github.com/alexandermyasnikov123/dynamic-calendar-and-clocks-icons"
+}
